@@ -37,28 +37,6 @@ To compile and run these programs, you will need a C++ compiler installed on you
 
 ---
 
-## 💡 How to Use
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/OOPs-Lab-AI-DS-3rd-Sem.git](https://github.com/your-username/OOPs-Lab-AI-DS-3rd-Sem.git)
-    ```
-2.  **Navigate to a specific lab folder (by date):**
-    ```bash
-    # Example: Navigate to the lab from September 30, 2025
-    cd OOPs-Lab-AI-DS-3rd-Sem/2025-09-30
-    ```
-3.  **Compile the C++ file:**
-    ```bash
-    g++ main.cpp -o output
-    ```
-4.  **Run the executable:**
-    ```bash
-    ./output
-    ```
-    *(On Windows, you might just run `output.exe`)*
-
----
 
 ## 🔬 Lab Experiments
 
