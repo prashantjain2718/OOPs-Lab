@@ -37,27 +37,24 @@ To compile and run these programs, you will need a C++ compiler installed on you
 
 ---
 
-
 ## 🔬 Lab Experiments
 
-This table provides a quick overview of all the topics covered, organized by lab date.
+This table provides a quick overview of all the topics covered.
 
-*(You can fill in the `YYYY-MM-DD` dates as per your lab schedule)*
-
-| Lab No. | Date (Folder Name) | Topic Covered |
-| :--- | :--- | :--- |
-| **01** | `YYYY-MM-DD` | Basics of C++, Library, Variables, and I/O |
-| **02** | `YYYY-MM-DD` | Demonstrating the concept of **Structures** |
-| **03** | `YYYY-MM-DD` | Class, Objects, and **Function Overloading** |
-| **04** | `YYYY-MM-DD` | **Dynamic Memory Allocation** (`new`/`delete`) & Array of Objects |
-| **05** | `YYYY-MM-DD` | **Constructors** (Default, Parameterized, Copy) & **Destructors** |
-| **06** | `YYYY-MM-DD` | **Friend Functions** and the `this` Pointer |
-| **07** | `YYYY-MM-DD` | **Constant** Members, **Static** Data Members & Functions |
-| **08** | `YYYY-MM-DD` | **Inheritance** (All Types), Function Overriding & **Virtual Functions** |
-| **09** | `YYYY-MM-DD` | **Operator Overloading** (Unary & Binary) |
-| **10** | `YYYY-MM-DD` | Generic Programming with **Function & Class Templates** |
-| **11** | `YYYY-MM-DD` | **Exception Handling** (`try`, `catch`, `throw`) |
-| **12** | `YYYY-MM-DD` | **File Handling** (I/O Operations) |
+| Lab No. | Topic Covered |
+| :--- | :--- |
+| **01** | Basics of C++, Library, Variables, and I/O |
+| **02** | Demonstrating the concept of **Structures** |
+| **03** | Class, Objects, and **Function Overloading** |
+| **04** | **Dynamic Memory Allocation** (`new`/`delete`) & Array of Objects |
+| **05** | **Constructors** (Default, Parameterized, Copy) & **Destructors** |
+| **06** | **Friend Functions** and the `this` Pointer |
+| **07** | **Constant** Members, **Static** Data Members & Functions |
+| **08** | **Inheritance** (All Types), Function Overriding & **Virtual Functions** |
+| **09** | **Operator Overloading** (Unary & Binary) |
+| **10** | Generic Programming with **Function & Class Templates** |
+| **11** | **Exception Handling** (`try`, `catch`, `throw`) |
+| **12** | **File Handling** (I/O Operations) |
 
 ---
 
@@ -74,7 +71,7 @@ This table provides a quick overview of all the topics covered, organized by lab
 
 > **Mr. Manish Dwivedi**
 > *Faculty – Department of Computer Science & Engineering*
-> *Arya College ofEngineering and IT*
+> *Arya College of Engineering and IT*
 
 ---
 
