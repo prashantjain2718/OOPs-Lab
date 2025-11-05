@@ -60,22 +60,22 @@ To compile and run these programs, you will need a C++ compiler installed on you
 
 ## 🔬 Lab Experiments
 
-This table provides a quick overview of all the topics covered and includes direct links to each lab's directory.
+This table provides a quick overview of all the topics covered.
 
-| Lab No. | Topic Covered | Quick Link |
-| :--- | :--- | :--- |
-| **01** | Basics of C++, Library, Variables, and I/O | [View Code](./Lab-01/) |
-| **02** | Demonstrating the concept of **Structures** | [View Code](./Lab-02/) |
-| **03** | Class, Objects, and **Function Overloading** | [View Code](./Lab-03/) |
-| **04** | **Dynamic Memory Allocation** (`new`/`delete`) & Array of Objects | [View Code](./Lab-04/) |
-| **05** | **Constructors** (Default, Parameterized, Copy) & **Destructors** | [View Code](./Lab-05/) |
-| **06** | **Friend Functions** and the `this` Pointer | [View Code](./Lab-06/) |
-| **07** | **Constant** Members, **Static** Data Members & Functions | [View Code](./Lab-07/) |
-| **08** | **Inheritance** (All Types), Function Overriding & **Virtual Functions** | [View Code](./Lab-08/) |
-| **09** | **Operator Overloading** (Unary & Binary) | [View Code](./Lab-09/) |
-| **10** | Generic Programming with **Function & Class Templates** | [View Code](./Lab-10/) |
-| **11** | **Exception Handling** (`try`, `catch`, `throw`) | [View Code](./Lab-11/) |
-| **12** | **File Handling** (I/O Operations) | [View Code](./Lab-12/) |
+| Lab No. | Topic Covered |
+| :--- | :--- |
+| **01** | Basics of C++, Library, Variables, and I/O |
+| **02** | Demonstrating the concept of **Structures** |
+| **03** | Class, Objects, and **Function Overloading** |
+| **04** | **Dynamic Memory Allocation** (`new`/`delete`) & Array of Objects |
+| **05** | **Constructors** (Default, Parameterized, Copy) & **Destructors** |
+| **06** | **Friend Functions** and the `this` Pointer |
+| **07** | **Constant** Members, **Static** Data Members & Functions |
+| **08** | **Inheritance** (All Types), Function Overriding & **Virtual Functions** |
+| **09** | **Operator Overloading** (Unary & Binary) |
+| **10** | Generic Programming with **Function & Class Templates** |
+| **11** | **Exception Handling** (`try`, `catch`, `throw`) |
+| **12** | **File Handling** (I/O Operations) |
 
 ---
 
