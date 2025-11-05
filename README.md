@@ -60,18 +60,18 @@ This table provides a quick overview of all the topics covered.
 
 ## 👨‍💻 About the Author
 
-> **Prashant Jain**
-> *Student, B.Tech AI & DS (Semester III)*
-> *Arya College of Engineering and IT*
-> *Academic Year: 2025–26*
+> **Prashant Jain**<br>
+> *Student, B.Tech AI & DS (Semester III)*<br>
+> *Arya College of Engineering and IT*<br>
+> *Academic Year: 2025–26*<br>
 
 ---
 
 ## 👨‍🏫 Faculty Guide
 
-> **Mr. Manish Dwivedi**
-> *Faculty – Department of Computer Science & Engineering*
-> *Arya College of Engineering and IT*
+> **Mr. Manish Dwivedi**<br>
+> *Faculty – Department of Computer Science & Engineering*<br>
+> *Arya College of Engineering and IT*<br>
 
 ---
 
