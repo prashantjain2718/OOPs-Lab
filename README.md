@@ -1,35 +1,111 @@
-# 🧠 Object-Oriented Programming (OOPs) Lab – 2025-26  
+# 💻 Object-Oriented Programming (OOPs) Lab – 2025-26
 
-This repository contains all the **Object-Oriented Programming Laboratory codes** for the academic year **2025–26**, implemented in **C++**.  
-Each program includes its **objective**, **code**, and **expected output** for better understanding and reference.  
-
----
-
-## 📘 About the Repository  
-
-This collection is designed to help students grasp the core concepts of **Object-Oriented Programming** through practical implementation.  
-The programs cover topics ranging from **classes and objects** to **inheritance**, **polymorphism**, **file handling**, and more.
+![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Author](https://img.shields.io/badge/Author-Prashant%20Jain-orange?style=for-the-badge)
+![Faculty](https://img.shields.io/badge/Faculty-Mr.%20Manish%20Dwivedi-lightgrey?style=for-the-badge)
 
 ---
 
-## 👨‍💻 Author  
+## 🧠 Overview
 
-**Prashant Jain**  
-*Student, Arya College of Engineering and IT*  
-*Academic Year: 2025–26*  
+Welcome to the **OOPs-Lab** repository for the 2025-26 academic session!
 
----
+This repository is a comprehensive collection of all **Object-Oriented Programming (OOP)** laboratory programs, written in **C++**. It is designed to simplify and practically demonstrate core OOP concepts through hands-on, well-documented examples.
 
-## 👨‍🏫 Faculty Guide  
-
-**Mr. Manish Dwivedi**  
-*Faculty – Department of Computer Science & Engineering*  
-*Arya College of Engineering and IT*  
+Each lab includes a clear **objective**, the complete **source code**, and **sample outputs** for reference and verification.
 
 ---
 
-## 🧩 Contents  
+## 🚀 Features
 
-Each folder/file corresponds to a specific lab experiment.  
-Typical structure of each code file:
+* **Complete Solutions:** Contains all required lab programs for the academic session.
+* **Well-Documented:** Each program includes comments and a clear objective.
+* **Ready to Run:** All code is tested and includes sample outputs.
+* **Organized:** Structured by lab number for easy navigation.
 
+---
+
+## 🛠️ Prerequisites
+
+To compile and run these programs, you will need a C++ compiler installed on your system.
+
+* **GCC (g++):** For Linux/macOS
+* **MinGW:** For Windows
+* Or any C++ IDE like **Visual Studio Code**, **Code::Blocks**, or **Dev-C++**.
+
+---
+
+## 💡 How to Use
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/your-username/OOPs-Lab-2025-26.git](https://github.com/your-username/OOPs-Lab-2025-26.git)
+    ```
+2.  **Navigate to a specific lab:**
+    ```bash
+    cd OOPs-Lab-2025-26/Lab-01
+    ```
+3.  **Compile the C++ file:**
+    ```bash
+    g++ main.cpp -o output
+    ```
+4.  **Run the executable:**
+    ```bash
+    ./output
+    ```
+    *(On Windows, you might just run `output.exe`)*
+
+---
+
+## 🔬 Lab Experiments
+
+This table provides a quick overview of all the topics covered and includes direct links to each lab's directory.
+
+| Lab No. | Topic Covered | Quick Link |
+| :--- | :--- | :--- |
+| **01** | Basics of C++, Library, Variables, and I/O | [View Code](./Lab-01/) |
+| **02** | Demonstrating the concept of **Structures** | [View Code](./Lab-02/) |
+| **03** | Class, Objects, and **Function Overloading** | [View Code](./Lab-03/) |
+| **04** | **Dynamic Memory Allocation** (`new`/`delete`) & Array of Objects | [View Code](./Lab-04/) |
+| **05** | **Constructors** (Default, Parameterized, Copy) & **Destructors** | [View Code](./Lab-05/) |
+| **06** | **Friend Functions** and the `this` Pointer | [View Code](./Lab-06/) |
+| **07** | **Constant** Members, **Static** Data Members & Functions | [View Code](./Lab-07/) |
+| **08** | **Inheritance** (All Types), Function Overriding & **Virtual Functions** | [View Code](./Lab-08/) |
+| **09** | **Operator Overloading** (Unary & Binary) | [View Code](./Lab-09/) |
+| **10** | Generic Programming with **Function & Class Templates** | [View Code](./Lab-10/) |
+| **11** | **Exception Handling** (`try`, `catch`, `throw`) | [View Code](./Lab-11/) |
+| **12** | **File Handling** (I/O Operations) | [View Code](./Lab-12/) |
+
+---
+
+## 👨‍💻 About the Author
+
+> **Prashant Jain**
+> *Student, B.Tech Computer Science*
+> *Arya College of Engineering and IT*
+> *Academic Year: 2025–26*
+
+---
+
+## 👨‍🏫 Faculty Guide
+
+> **Mr. Manish Dwivedi**
+> *Faculty – Department of Computer Science & Engineering*
+> *Arya College of Engineering and IT*
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! If you find a bug or have an optimization, feel free to open an issue or submit a pull request.
+
+---
+
+## 📄 License
+
+This repository is provided for educational and reference purposes only. All code was written and published by Prashant Jain.
+
+---
+
+**Happy Coding! 🚀**
